@@ -68,9 +68,7 @@ python main.py
 服务器将启动，并默认监听在 `0.0.0.0:8000`。您将在终端看到模型加载信息和 Uvicorn 的启动日志。
 
 ## 项目演示
-<a href="https://github.com/Zoeywyt/picture_transfer/raw/master/App/disaplay.mp4">
-  <img src="https://github.com/Zoeywyt/picture_transfer/raw/master/App/demo.png" alt="视频封面" width="600"/>
-</a>
+<video src="https://github.com/Zoeywyt/picture_transfer/raw/master/App/disaplay.mp4" width="100%" controls></video>
 
 ## API 端点
 
